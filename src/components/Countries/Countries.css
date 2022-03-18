@@ -1,0 +1,6 @@
+.countries-continer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    /* border-radius: 15px; */
+}
